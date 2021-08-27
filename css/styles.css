@@ -457,6 +457,11 @@ input[type='checkbox'] {
 	height: 32px;
 }
 
+.authorpic {
+    /*width: 133px;
+	height: 32px;*/
+}
+
 .navbar .logo-text {
 	color: #252c38;
 	font-weight: 600;
@@ -1533,7 +1538,7 @@ a:hover.back-to-top {
 	/* Header */
 	.header {
 		padding-top: 11rem;
-		padding-bottom: 8rem;
+		padding-bottom: 3rem;
 	}
 
 	.header .text-container {
